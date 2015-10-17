@@ -1,11 +1,6 @@
 # -*- coding: utf-8 -*-
 
 
-"""
-No actual tests for now, just a demo of what can be done.
-"""
-
-
 import ojm
 
 
