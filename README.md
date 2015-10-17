@@ -14,9 +14,11 @@ import ojm
 # Define classes...
 
 class Human(ojm.Model):
+    pass
     # ...
 
 class Organ(ojm.Model):
+    pass
     # ...
 
 
